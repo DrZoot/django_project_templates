@@ -1,0 +1,11 @@
+"""{{ app_name }} URL Configuration
+
+Docs: https://docs.djangoproject.com/en/2.0/topics/http/urls/
+Path Example: path('', Home.as_view(), name='home')
+Include Example: path('blog/', include('blog.urls'))
+"""
+from django.urls import path
+
+urlpatterns = [
+	
+]
