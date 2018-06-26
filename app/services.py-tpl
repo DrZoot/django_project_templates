@@ -1,2 +1,5 @@
-"""{{ app_name }} Services / Commands
+"""{{ app_name }} Services / Commands.
 
+Shared code that impacts the state of the DB. Not presentational.
+See: https://stackoverflow.com/a/12857584/7234078
+"""

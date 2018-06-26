@@ -1,0 +1,5 @@
+"""{{ app_name }} Celery Tasks.
+
+Docs: http://docs.celeryproject.org/en/latest/django/first-steps-with-django.html
+"""
+from celery import shared_task

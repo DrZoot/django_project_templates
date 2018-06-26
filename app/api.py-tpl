@@ -1,0 +1,16 @@
+"""{{ app_name }} API.
+
+Docs: http://www.django-rest-framework.org/
+"""
+from django.urls import path, include
+from rest_framework import routers, viewsets
+from .serializers import *
+
+# Viewsets
+
+# Routers
+
+app_name = '{{ camel_case_app_name }}'
+urlpatterns = [
+    # url(r'^', include(router.urls)),
+]

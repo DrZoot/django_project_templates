@@ -1,4 +1,4 @@
-"""{{ camel_case_app_name }} Models
+"""{{ app_name }} Models.
 
 Docs: https://docs.djangoproject.com/en/2.1/topics/db/models/
 """

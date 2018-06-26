@@ -1,3 +1,6 @@
-from django.contrib import admin
+"""{{ app_name }} Django Admin Views.
 
-# Register your models here.
+Docs: https://docs.djangoproject.com/en/2.1/ref/contrib/admin/
+"""
+from django.contrib import admin
+from .models import *

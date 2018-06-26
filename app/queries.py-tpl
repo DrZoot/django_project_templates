@@ -1,4 +1,4 @@
-"""{{ camel_case_app_name }} Model Queries.
+"""{{ app_name }} Model Queries.
 
 Contains shared presentational queries. DB operations that make changes should be stored in {{ camel_case_app_name }}\services.py
 """

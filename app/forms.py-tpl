@@ -1,4 +1,4 @@
-"""{{ camel_case_app_name }} Forms
+"""{{ app_name }} Forms
 
 Docs: https://docs.djangoproject.com/en/2.0/topics/forms/
 """
