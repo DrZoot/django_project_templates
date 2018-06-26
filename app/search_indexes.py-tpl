@@ -1,0 +1,6 @@
+"""{{ app_name }} Haystack Search Indexes.
+
+Docs: http://django-haystack.readthedocs.io/en/master/searchindex_api.html
+"""
+from haystack import indexes
+from .models import *
